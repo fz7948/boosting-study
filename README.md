@@ -20,4 +20,5 @@
 ### 🐰 참여자
 
 - O Wooyoung [:octocat:](https://github.com/fz7948)
-- Subin Jeong [:octocat:](https://github.com/integerbin03)
+- Jang Sehun [:octocat:](https://github.com/setung)
+- Jeong Subin [:octocat:](https://github.com/integerbin03)
