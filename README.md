@@ -20,3 +20,4 @@
 ### 🐰 참여자
 
 - O Wooyoung [:octocat:](https://github.com/fz7948)
+- Subin Jeong [:octocat:](https://github.com/integerbin03)
