@@ -1,4 +1,4 @@
-package 장세훈.LeetCode;
+package 장세훈.LeetCode.easy;
 
 import java.util.Arrays;
 import java.util.Collections;

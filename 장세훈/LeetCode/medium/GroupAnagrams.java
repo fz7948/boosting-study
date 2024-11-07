@@ -1,4 +1,4 @@
-package 장세훈.LeetCode;
+package 장세훈.LeetCode.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
