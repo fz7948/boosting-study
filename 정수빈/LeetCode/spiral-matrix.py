@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/spiral-matrix/
 # 설명: 2차원 배열을 소용돌이 모양으로 출력
 # 방문한 노드를 체크하기 위해 visited를 생성 
-# offset 으로 미리 움직일 
+# offset 으로 미리 움직일 -1, 1을 정함, offset이 소용돌이 움직임에 핵심
 
 class Solution(object):
     def spiralOrder(self, matrix):
