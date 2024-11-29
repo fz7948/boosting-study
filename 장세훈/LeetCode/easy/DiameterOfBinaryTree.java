@@ -7,21 +7,22 @@ class DiameterOfBinaryTree {
         왼쪽 노드의 깊이와 오른쪽 노드의 깊이의 합이 가장 큰 값을 찾아내는 문제
      */
 
-    int answer = 0;
+    int diameter = 0; 
 
-    public int diameterOfBinaryTree(TreeNode root) {
-        dfs(root);
-        return answer;
+     int diameterOfBinaryTree(TreeNode root) {
+        dfs(root); 
+        return diameter; 
     }
 
-    int dfs(TreeNode node) {
-        if (node == null) return -1;
-        int left = dfs(node.left);
-        int right = dfs(node.right);
+     int dfs(TreeNode node) {
+        if (node == null) return 0; 
 
-        answer = Math.max(left + right + 2, answer);
+        int leftDepth = dfs(node.left);
+        int rightDepth = dfs(node.right);
 
-        return Math.max(left, right) + 1;
+        diameter = Math.max(diameter, leftDepth + rightDepth);
+
+        return Math.max(leftDepth, rightDepth) + 1;
     }
 
 }
