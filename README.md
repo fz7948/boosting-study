@@ -35,3 +35,4 @@
 - O Wooyoung [:octocat:](https://github.com/fz7948)
 - Jang Sehun [:octocat:](https://github.com/setung)
 - Jeong Subin [:octocat:](https://github.com/integerbin03)
+- Kwak Kyeongjin [:octocat:](https://github.com/kwakkwakkwak)
