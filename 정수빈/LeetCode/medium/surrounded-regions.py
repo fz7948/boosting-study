@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/surrounded-regions/?envType=study-plan-v2&envId=top-interview-150
+# 난이도: medium
+# 시간: 49분
 
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
