@@ -1,12 +1,11 @@
 # TIL
 
 - [매일 알고리즘 2문제 이상 풀고 PR (모든 문제, level 자유)](https://school.programmers.co.kr/learn/challenges?order=recent&languages=javascript)
-- [주마다 프로그래머스 고득점 kit 1개 유형 전부 풀기 (시간 안에 풀기, PR은 하지않음)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
 ### 규칙
 
 - 파일 이름은 문제 이름으로 작성합니다. (예시: 큰정사각형찾기.js)
-- 상단에 문제 풀이 과정을 주석으로 작성합니다.
+- 상단에 문제 풀이 과정을 주석으로 간단하게 작성합니다.
 
 ```
 예시:
@@ -15,20 +14,6 @@
     2. 인접노드 필터 조건
       2-1. 새 거리가 현재 최소거리보다 작은지
       2-2. cycle 없는지
-```
-- 주차별 고득점 kit 순서
-```
-1. 스택/큐
-2. 힙
-3. 정렬
-4. 해시
-5. 완전탐색
-6. 탐욕법
-7. 동적계획법
-8. 깊이/너비 우선 탐색
-9. 이분탐색
-10. 그래프
-```
 
 ### 참여자
 
