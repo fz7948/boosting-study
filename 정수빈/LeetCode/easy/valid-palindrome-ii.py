@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/valid-palindrome-ii/
+# 해답봄.. ㅠ
 class Solution:
     def validPalindrome(self, s: str) -> bool:
         def check_palindrome(s, i, j):
