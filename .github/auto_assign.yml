@@ -6,10 +6,8 @@ addAssignees: author
 
 # A list of reviewers to be added to pull requests (GitHub user name)
 reviewers:
-  - fz7948
   - setung
   - integerbin03
-  - kwakkwakkwak
 
 # A number of assignees to add to the pull request
 # Set to 0 to add all of the assignees.
