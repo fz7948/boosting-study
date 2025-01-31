@@ -21,3 +21,4 @@
 - Jang Sehun [:octocat:](https://github.com/setung)
 - Jeong Subin [:octocat:](https://github.com/integerbin03)
 - kwak kyungjin [:octocat:](https://github.com/kwakkwakkwak)
+- Choi Seoyoung [:octocat:](https://github.com/choisy9619)

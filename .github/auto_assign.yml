@@ -8,6 +8,7 @@ addAssignees: author
 reviewers:
   - setung
   - integerbin03
+  - choisy9619
 
 # A number of assignees to add to the pull request
 # Set to 0 to add all of the assignees.
