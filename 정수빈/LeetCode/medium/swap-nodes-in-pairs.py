@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/swap-nodes-in-pairs/
+# 걸린시간: 20분
 
 # Definition for singly-linked list.
 # class ListNode:
