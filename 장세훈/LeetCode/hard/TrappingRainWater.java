@@ -1,10 +1,11 @@
 class TrappingRainWater {
-
+ 
     /*
         https://leetcode.com/problems/trapping-rain-water/
      */
 
     public int trap(int[] height) {
+
         Deque<Integer> stack = new ArrayDeque<>();
         int result = 0;
 
